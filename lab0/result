@@ -1,0 +1,11 @@
+Shell Start
+set b = 2
+set c = a+b
+c = 3
+save c to ./file1
+save b to ./file1
+save a to ./file1
+save file4 to ./result
+3
+2
+1
